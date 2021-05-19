@@ -7,8 +7,6 @@ I have been working as a full-stack developer for 2 years. I love to design and 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-sandoval-83856a212/) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegosandovalr.corp@gmail.com)
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently work as a Full-Stack developer at WithKoji and as a freelancer.
 - 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate on challenging projects
