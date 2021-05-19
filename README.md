@@ -1,10 +1,11 @@
 ## Hello, This is Diego Sandoval <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I have been working as a full-stack developer for 2 years. I love to design and create efficient and quality solutions for today's people.
+I have been working as a full-stack developer for 2 years. I love to design and create efficient and quality solutions for today's people. Visit my [personal portfolio](https://diegocorp.github.io/) to know more about me
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-sandoval-83856a212/) [![Mail Badge](https://img.shields.io/badge/-diegosandovalr.corp-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:diegosandovalr.corp@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-sandoval-83856a212/) 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegosandovalr.corp@gmail.com)
 
 Here are some ideas to get you started:
 
