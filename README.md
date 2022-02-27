@@ -1,6 +1,6 @@
 ## Hello, This is Diego Sandoval <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I have been working as a full-stack developer for 2 years. I love to design and create efficient and quality solutions for today's people. Visit my [personal portfolio](https://www.diegosandoval.tech/) to know more about me.
+I have been working as a full-stack developer for 3 years. I love to design and create efficient and quality solutions for today's people. Visit my [personal portfolio](https://www.diegosandoval.tech/) to know more about me.
 
 :mailbox: Reach me out!
 
@@ -8,7 +8,7 @@ I have been working as a full-stack developer for 2 years. I love to design and 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegosandovalr.corp@gmail.com)
 
 - 🔭 I’m currently work as a Full-Stack developer at WithKoji and as a freelancer.
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Ruby on Rails
 - 👯 I’m looking to collaborate on challenging projects
 - 📫 How to reach me: diegosandovalr.corp@gmail.com
 - ⚡ Fun fact: I love reading science fiction and fantasy books.
